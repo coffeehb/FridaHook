@@ -5,3 +5,7 @@
 学习Frida首推这个项目
 
 https://github.com/r0ysue/AndroidSecurityStudy
+
+Frida脱壳推荐这个项目
+
+https://github.com/hluwa/FRIDA-DEXDump
