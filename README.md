@@ -9,3 +9,7 @@ https://github.com/r0ysue/AndroidSecurityStudy
 Frida脱壳推荐这个项目
 
 https://github.com/hluwa/FRIDA-DEXDump
+
+ADB调试命令相关必推荐
+
+https://github.com/mzlogin/awesome-adb/blob/master/README.md
