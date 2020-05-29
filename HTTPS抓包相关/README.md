@@ -17,3 +17,8 @@ python frida_attach.py hooks.js com.sankuai.meituan.meituanwaimaibusiness
 - 完成HTTPS抓包
 
 ![avatar](https1.png)
+
+## 参考
+hook anywhere、抓包
+
+https://www.anquanke.com/post/id/197657#h3-11
