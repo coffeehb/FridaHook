@@ -15,4 +15,11 @@ ADB调试命令相关必推荐
 https://github.com/mzlogin/awesome-adb/blob/master/README.md
 
 编写hook脚本练习
+
 https://github.com/m0bilesecurity/Frida-Mobile-Scripts/tree/master/Android
+
+## 实战
+
+Brida插件加解密实战
+
+https://xz.aliyun.com/t/7562
