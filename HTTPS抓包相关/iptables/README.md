@@ -2,7 +2,7 @@
 
 ### 场景
 
-在Android手机里使用iptables将指定进程的流量强制转到目的IP上，默认是转到8080端口
+在Android手机里使用iptables将指定进程的流量强制转到目的IP上，默认是转到8080端口【脚本来自我司大佬】
 
 使用场景： 解决Android手机HW P20 HTTPS无法抓包的问题
 - 1、HW手机无法进行Frida HOOK ，设置全局代理后 应用打开出现异常。
@@ -49,4 +49,10 @@ HWEML:/ # sh /data/local/tmp/redirect.sh u0_a103 10.117.122.34
 sh /data/local/tmp/redirect.sh -F
 
 
+## 遗留问题
+
+- 1、如何安装Edxposed
+- 2、如何做到SSL Unpinning
+
+u1s1, 我还没有是实操过。等我体验过后再分享。
 
