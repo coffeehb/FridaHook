@@ -54,5 +54,8 @@ sh /data/local/tmp/redirect.sh -F
 - 1、如何安装Edxposed
 - 2、如何做到SSL Unpinning
 
+参考：
+https://blog.csdn.net/Aaron_Miller/article/details/106958610
+
 u1s1, 我还没有是实操过。等我体验过后再分享。
 
